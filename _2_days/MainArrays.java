@@ -1,3 +1,5 @@
+package _2_days;
+
 public class MainArrays {
 
     public static void main(String[] args) {

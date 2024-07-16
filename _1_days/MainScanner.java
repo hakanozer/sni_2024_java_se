@@ -1,3 +1,5 @@
+package _1_days;
+
 import java.util.Scanner;
 
 public class MainScanner {

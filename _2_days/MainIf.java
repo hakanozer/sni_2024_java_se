@@ -1,3 +1,5 @@
+package _2_days;
+
 import java.util.ArrayList;
 
 public class MainIf {

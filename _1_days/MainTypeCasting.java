@@ -1,3 +1,5 @@
+package _1_days;
+
 public class MainTypeCasting {
 
     public static void main(String[] args) {
