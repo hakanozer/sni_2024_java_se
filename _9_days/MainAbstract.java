@@ -17,5 +17,9 @@ public class MainAbstract {
         System.out.println( employe.name() );
         System.out.println( employe.total() );
 
+        Computer computer = new Computer();
+        System.out.println(computer.age);
+        
+
     }
 }
